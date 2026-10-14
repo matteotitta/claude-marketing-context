@@ -1,0 +1,15 @@
+{
+  "name": "claude-marketing-context",
+  "owner": {
+    "name": "Matteo Tittarelli"
+  },
+  "description": "The context layer every marketing skill reads first: ICP, competitors, positioning, messaging, voice, brand, goals.",
+  "plugins": [
+    {
+      "name": "marketing-context",
+      "source": ".",
+      "description": "The context layer every marketing skill reads first: ICP, competitors, positioning, messaging, voice, brand, goals.",
+      "version": "1.0.0"
+    }
+  ]
+}

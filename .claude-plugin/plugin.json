@@ -1,0 +1,19 @@
+{
+  "name": "marketing-context",
+  "version": "1.0.0",
+  "description": "The context layer every marketing skill reads first: ICP, competitors, positioning, messaging, voice, brand, goals.",
+  "author": {
+    "name": "Matteo Tittarelli",
+    "url": "https://genesysgrowth.com"
+  },
+  "homepage": "https://github.com/matteotitta/claude-marketing-context",
+  "repository": "https://github.com/matteotitta/claude-marketing-context",
+  "license": "MIT",
+  "keywords": [
+    "marketing",
+    "b2b-saas",
+    "gtm",
+    "claude-code",
+    "skills"
+  ]
+}
