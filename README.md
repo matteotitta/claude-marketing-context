@@ -32,17 +32,17 @@ In Claude.ai or Cowork: download [`claude-marketing-context.zip`](https://github
 
 | Skill | What it does |
 |---|---|
-| `/brand-kit` | - Extracts a company's visual identity from screenshots. |
-| `/company-context` | - Researches a company from its website and public sources and writes a company profile. |
-| `/competitor-research` | - Researches one B2B SaaS competitor across 13 dimensions. |
-| `/expert-pov` | - Draws out a founder's or expert's point of view. |
-| `/funnel-strategy` | - Works out a company's go-to-market motion. |
-| `/goals` | - Turns a target someone has already committed to. |
-| `/icp-research` | - Builds an ideal customer profile from evidence: case studies, testimonials, customer logos, solutions pages, reviews and any sales notes you have. |
-| `/messaging` | - Builds a product messaging library from your positioning, your website and customer evidence. |
-| `/positioning` | - Develops B2B SaaS positioning from your ICP, competitor and win-loss evidence. |
-| `/tov-guidelines` | - Extracts a company's tone of voice from its own content and turns it into rules a writer or an AI can follow. |
-| `/win-loss` | - Analyses sales call transcripts (and churn or renewal calls) to find why deals are won, lost, kept or churned. |
+| `/brand-kit` | Extracts a company's visual identity from screenshots or its website and writes a DESIGN.md brand file. |
+| `/company-context` | Researches a company from its website and public sources and writes a company profile. |
+| `/competitor-research` | Researches one B2B SaaS competitor across 13 dimensions and writes a sourced dossier with an executive summary, a threat level, strengths and… |
+| `/expert-pov` | Draws out a founder's or expert's point of view. |
+| `/funnel-strategy` | Works out a company's go-to-market motion from its website and pricing, then maps the funnel stage by stage. |
+| `/goals` | Turns a target someone has already committed to into a plan the team can measure. |
+| `/icp-research` | Builds an ideal customer profile from evidence: case studies, testimonials, customer logos, solutions pages, reviews and any sales notes you have. |
+| `/messaging` | Builds a product messaging library from your positioning, your website and customer evidence. |
+| `/positioning` | Develops B2B SaaS positioning from your ICP, competitor and win-loss evidence. |
+| `/tov-guidelines` | Extracts a company's tone of voice from its own content and turns it into rules a writer or an AI can follow. |
+| `/win-loss` | Analyses sales call transcripts (and churn or renewal calls) to find why deals are won, lost, kept or churned. |
 
 **Start here:** `/company-context → /icp-research → /competitor-research → /positioning → /messaging`
 
